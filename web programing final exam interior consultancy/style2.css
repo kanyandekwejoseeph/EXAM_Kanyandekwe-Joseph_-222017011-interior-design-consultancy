@@ -1,0 +1,10 @@
+/* Apply yellow background color to the body */
+body {
+	background-color: lightskyblue;
+}
+
+/* Apply smaller font size and increase letter spacing for all paragraphs */
+p {
+	font-size: smaller;
+	letter-spacing: 1em;
+}nnjbjbj

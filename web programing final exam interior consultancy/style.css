@@ -1,0 +1,50 @@
+/* Apply lime background color to the body */
+body {
+	background-color: lightskyblue;
+}
+
+/* Apply x-large font size and yellow background color to all paragraphs */
+p {
+	font-size: x-large;
+	background-color: lightskyblue;
+}
+
+/* Apply purple background color to headings h1 to h6 */
+h1, h2, h3, h4, h5, h6 {
+	background-color: lightskyblue;
+}
+
+/* Apply bold font weight to all elements */
+* {
+	font-weight: bold;
+}
+
+/* Apply aqua background color to the element with ID 'p1' */
+#p1 {
+	background-color: aqua;
+}
+
+/* Apply blue background color to elements with class 'p3' */
+.p3 {
+	background-color: blue;
+}
+
+/* Apply black color to unvisited links */
+a:link {
+	color: whitesmoke;
+}
+
+/* Apply yellow color to visited links */
+a:visited {
+	color: yellow;
+}
+
+/* Apply green color to links when hovered */
+a:hover {
+	color: green;
+}
+
+/* Apply red color to links when clicked */
+a:active {
+	color: red;
+}
